@@ -8,7 +8,7 @@ en una base de datos MongoDB utilizando Typescript, ApolloServer y Mongoose.<p>
 
 ## Esquema de datos GraphQL
 
-```json
+```
 type Comic {
   id: ID!
   name: String!
